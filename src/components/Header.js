@@ -69,7 +69,7 @@ export const Header = () => {
                 <nav className="site-nav" style={{ margin: 0 }}>
                     <a href="#movies">MOVIES</a>
                     <a href="#radar">RADAR</a>
-                    <a href="#awards">AWARDS</a>
+                    {isAuth && <NavLink to="/create">CREATE</NavLink>}
                 </nav>
                 <MovieSearch />
             </div>
