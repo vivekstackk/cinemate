@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/tmdb-images/:path*", "destination": "https://image.tmdb.org/:path*" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
