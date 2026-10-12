@@ -4,7 +4,7 @@
 
 CineMate is a cinematic movie discovery platform designed to make choosing what to watch easier and more enjoyable. Explore trending films, discover movies by mood, follow film awards, and build your own personal film journal.
 
-**Live Demo:** [Add your deployed website URL]
+**Live Demo:** [https://cinemateeee.vercel.app/]
 
 **Repository:** https://github.com/vivekstackk/cinemate
 
